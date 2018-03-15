@@ -1,4 +1,0 @@
-	QObject::connect(button1, SIGNAL(clicked()), button1, SLOT(changeColor()));
-	QObject::connect(button2, SIGNAL(clicked()), button2, SLOT(changeColor()));
-	QObject::connect(button3, SIGNAL(clicked()), button3, SLOT(changeColor()));
-	QObject::connect(button4, SIGNAL(clicked()), button4, SLOT(changeColor())); 

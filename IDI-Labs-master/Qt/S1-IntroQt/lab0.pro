@@ -1,5 +1,0 @@
-TEMPLATE = app
-DEPENDPATH+=.
-INCLUDEPATH+=.
-#Input
-SOURCES+=lab0.cpp
